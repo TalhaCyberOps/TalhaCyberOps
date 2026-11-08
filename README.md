@@ -7,7 +7,9 @@
 <a href="https://github.com/TM-541/AI-Secure-Policy-RAG-Assistant"><img src="assets/project-rag.svg" alt="Secure Policy RAG Assistant: prompt-injection-hardened local RAG with seven defense layers." width="49.4%"></a>
 <a href="https://github.com/TM-541/AEGIS-LN"><img src="assets/project-aegis-ln.svg" alt="AEGIS-LN: hardware-isolated LoRa mesh with a 3-stage edge-AI firewall." width="49.4%"></a>
 
-<a href="https://tm-541.github.io/Portfolio/#research"><img src="assets/research.svg" alt="Research: IEEE IBCAST 2026 paper (conditionally accepted) and an international grant proposal under review." width="100%"></a>
+<a href="https://tm-541.github.io/Portfolio/#research">
+  <img src="assets/research.svg" alt="Research: Published IEEE IBCAST 2026 paper on secure LoRa mesh communication and an international disaster communication research proposal under review." width="100%">
+</a>
 
 <a href="https://tm-541.github.io/Portfolio/#experience"><img src="assets/experience.svg" alt="Experience: AI Engineer Intern at Tekdex, Systems and IoT at WaveLink, Cyber Security R&D at Tech Quadrant, Instructor at Yuni, Digital Forensics at Cyborts, Operations and Compliance at TM Engineering." width="100%"></a>
 
