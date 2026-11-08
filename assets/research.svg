@@ -35,7 +35,7 @@
 <text x="48" y="60" class="m" font-size="12.5" fill="#2ee6c5" letter-spacing="2.2">03 / RESEARCH</text>
 <line x1="187" y1="56" x2="243" y2="56" stroke="#2ee6c5" stroke-opacity=".5"/>
 <rect x="48" y="84" width="532" height="112" rx="12" fill="#0d1117" fill-opacity=".55" stroke="#2ee6c5" stroke-opacity=".3"/>
-<text x="68" y="112" class="m" font-size="11.5" fill="#2ee6c5" letter-spacing="1.2">IEEE IBCAST 2026 · CONDITIONALLY ACCEPTED</text>
+<text x="68" y="112" class="m" font-size="11.5" fill="#2ee6c5" letter-spacing="1.2">IEEE XPLORE - IBCAST 2026 · Published</text>
 <text x="68" y="140.0" class="s" font-size="16" fill="#e7edf6" font-weight="600">Hardware-Isolated Secure Mesh Communication with Edge-AI</text>
 <text x="68" y="164.8" class="s" font-size="16" fill="#e7edf6" font-weight="600">Intrusion Detection over LoRa</text>
 <rect x="620" y="84" width="532" height="112" rx="12" fill="#0d1117" fill-opacity=".55" stroke="#94aac8" stroke-opacity=".16"/>
